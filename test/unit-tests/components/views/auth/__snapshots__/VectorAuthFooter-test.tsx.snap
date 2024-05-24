@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VectorAuthFooter /> should match snapshot 1`] = `
+<DocumentFragment>
+  <footer
+    class="mx_AuthFooter"
+    role="contentinfo"
+  >
+    <a
+      href="https://github.com/leoluo862/Hume"
+      rel="noreferrer noopener"
+      target="_blank"
+    >
+      GitHub
+    </a>
+    <a
+      href="https://matrix.org"
+      rel="noreferrer noopener"
+      target="_blank"
+    >
+      Powered by Matrix
+    </a>
+  </footer>
+</DocumentFragment>
